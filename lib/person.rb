@@ -3,7 +3,7 @@ class Person
   
   def initialize(attributes)
     # birthday:, hair_color:, eye_color:, height:, weight:, handed:, complexion:, t_shirt_size:, wrist_size:, glove_size:, pant_length:, pant_width:)
-    
+    attributes.each do ||
   #   @birthday = birthday
   #   @hair_color = hair_color
   #   @eye_color = eye_color
